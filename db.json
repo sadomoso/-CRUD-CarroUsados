@@ -1,0 +1,30 @@
+{
+  "CARROS": [
+    {
+      "id": "fc80",
+      "modelo": "Fiat uno",
+      "kilometragem": 10000,
+      "cor": "Vermelo",
+      "combustivel": "Gasolina",
+      "ano": 2001,
+      "placa": "XZT-1818",
+      "telefone": 31994462902,
+      "portas": 4,
+      "site": "olx.com.br",
+      "valor": 91500
+    },
+    {
+      "id": "9fe8",
+      "modelo": "Golzin",
+      "kilometragem": 18000,
+      "cor": "Branco",
+      "combustivel": "Gasolina",
+      "ano": 2002,
+      "placa": "XAZ-6969",
+      "telefone": 4199999999,
+      "portas": 4,
+      "site": "olx.com.br",
+      "valor": 17500
+    }
+  ]
+}
